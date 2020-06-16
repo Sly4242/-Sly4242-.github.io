@@ -1,1 +1,0 @@
-var firstImageIndex  = 0;

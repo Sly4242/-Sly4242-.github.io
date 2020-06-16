@@ -1,1 +1,0 @@
-var firstRow = 1;
